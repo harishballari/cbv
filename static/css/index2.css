@@ -1,0 +1,17 @@
+.header{
+    text-align: center;
+    background-color: aqua;
+    color: red;
+}
+.c1{
+    text-align: center;
+    color: blue;
+}
+.footer{
+    text-align: center;
+    background-color: aqua;
+    color: red;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
